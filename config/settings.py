@@ -48,7 +48,7 @@ DATABASES = {
 
 CSRF_TRUSTED_ORIGINS = [
     'https://store-backend-production-5275.up.railway.app',
-    'https://maketshopv1.netlify.app/'
+    'https://minimartv1.netlify.app'
 ]
 
 AUTH_USER_MODEL = 'users.User'
